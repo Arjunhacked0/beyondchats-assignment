@@ -63,10 +63,10 @@ Welcome to the **Intelligent Content Upgrader**, a state-of-the-art AI pipeline 
 
 ### Installation
 
-1.  **Clone the Repo**
-    ```bash
-    git clone https://github.com/Vinaykumarmahato/Intelligent-Content-Upgrader.git
-    cd Intelligent-Content-Upgrader
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/Arjunhacked0/beyondchats-assignment.git
+   cd beyondchats-assignment
     ```
 
 2.  **Setup Backend**
@@ -103,6 +103,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ---
 
 <div align="center">
-  <h3>Made with ❤️ by Vinay Kumar Mahato</h3>
+  <h3>Made with ❤️ Arjun Sahani 
+  </h3>
   <p><i> Transforming the web, one article at a time.</i></p>
 </div>
